@@ -1,0 +1,42 @@
+
+.header-txt {
+    margin-bottom: 120px;
+}
+.para-1 {
+    font-size: 15px;
+}
+.section-2 {
+    text-align: center;
+}
+.fs-6 {
+    font-size: 13px;
+}
+.section-3 {
+   
+}
+.section-3 img {
+    height: auto;
+    width: 100vh;
+}
+.section-4 img {
+   height: auto;
+   width: 100vh;
+}
+.section-6 {
+    border-radius: 10px;
+}
+
+
+
+
+@media (max-width:767px) {
+        .para-1 {
+            font-size: 14px;
+        }
+        .text-1 .text-2 .text-3 {
+            font-size: 25px;
+        }
+        .header-txt1 {
+            margin-top: 120px;
+        }
+}

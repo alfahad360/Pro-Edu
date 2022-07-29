@@ -25,7 +25,49 @@
 .section-6 {
     border-radius: 10px;
 }
-
+.align-center {
+   
+}
+.view-all {
+    text-align: center;
+}
+.text-align {
+    text-align: center;
+}
+.secc {
+    text-align: center;
+}
+.sect img {
+    height: 25px;
+    width: 100px;
+}
+.fa-facebook-f {
+    color: #fff;
+    background-color: gray;
+    padding: 8px 8px;
+    border-radius: 50%;
+}
+.fa-twitter {
+    color: #fff;
+    background-color: gray;
+    padding: 8px 8px;
+    border-radius: 50%;
+}
+.fa-instagram {
+    color: #fff;
+    background-color: gray;
+    padding: 8px 8px;
+    border-radius: 50%;
+}
+.fa-linkedin-in {
+    color: #fff;
+    background-color: gray;
+    padding: 8px 8px;
+    border-radius: 50%;
+}
+footer {
+    text-align: center;
+}
 
 
 
@@ -38,5 +80,26 @@
         }
         .header-txt1 {
             margin-top: 120px;
+        }
+        .align-center {
+            text-align: center;
+        }
+        .section-4 img {
+            height: auto;
+            width: 100vh;
+           
+        }
+        .section-7 {
+            text-align: center;
+        }
+        .section-8 {
+            text-align: center;
+        }
+        .section-8 img {
+            height: auto;
+            width: 100vh;
+        }
+        .sect {
+            display: none;
         }
 }
